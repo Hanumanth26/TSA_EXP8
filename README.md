@@ -1,8 +1,8 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
 ```
-Developed by:M.vivek reddy
-Reg No: 212221240030
+Developed by:hanumanth rao 
+Reg No: 212221240016
 ```
 
 ### AIM:
