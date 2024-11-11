@@ -1,5 +1,5 @@
 # Ex.No: 08 MOVING AVERAGE MODEL USING PYTHON
-### Date: 
+### Date: 18:10:24
 
 ### AIM:
 
